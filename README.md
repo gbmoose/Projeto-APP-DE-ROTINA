@@ -2,6 +2,8 @@
 
 Aplicativo mobile da Bortolan Systems para melhorar a organização da rotina pessoal, profissional, dos estudos e dos treinos.
 
+O repositório já contém um protótipo navegável das telas Hoje, Semana, Hábitos e Perfil. Os dados atuais são demonstrativos.
+
 ## Tecnologias
 
 - React Native
@@ -22,3 +24,9 @@ Aplicativo mobile da Bortolan Systems para melhorar a organização da rotina pe
 2. Execute `npm install`.
 3. Execute `npm start`.
 4. Leia o QR Code usando o Expo Go no celular.
+
+## Documentação
+
+- [Plano completo de desenvolvimento](PLANO_DESENVOLVIMENTO.md)
+- [Arquitetura inicial](docs/ARQUITETURA.md)
+- [Como contribuir](CONTRIBUTING.md)

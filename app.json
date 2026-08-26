@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Routine Flow",
+    "slug": "routine-flow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F8FC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F8FC"
+      },
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
